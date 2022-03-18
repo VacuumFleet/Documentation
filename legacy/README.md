@@ -1,1 +1,1 @@
-Legacy docs that were made before the project selection, do not modify anything in this folder but feel free to use these docs as inspiration or basis for improvement
+### Docs datant d'avant sélection du projet, ne rien modifier dans ce dossier mais à utiliser comme base pour la suite.
