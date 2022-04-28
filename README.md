@@ -6,6 +6,7 @@
 
 ## Document projet
 
-- [Processus de départ d'un membre de l'équipe](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legacy/offboarding.md)
 - [Assurance qualité](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legacy/quality_insurance.md)
 - [Domaines techniques](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legacy/technical_domains.md)
+- [Méthodes de travail](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legacy/working_method.md)
+- [Processus de départ d'un membre de l'équipe](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legacy/offboarding.md)
