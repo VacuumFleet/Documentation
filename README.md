@@ -10,3 +10,4 @@
 - [Domaines techniques](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legacy/technical_domains.md)
 - [Méthodes de travail](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legacy/working_method.md)
 - [Processus de départ d'un membre de l'équipe](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legacy/offboarding.md)
+- [Commits](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legacy/commits.md)
