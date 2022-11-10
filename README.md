@@ -7,7 +7,6 @@
 ## Méthodes de travail
 
 - [Assurance qualité](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/methodes_travail/quality_insurance.md)
-- [Domaines techniques](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/methodes_travail/technical_domains.md)
 - [Méthodes de travail](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/methodes_travail/methodes_travail.md)
 - [Processus de départ d'un membre de l'équipe](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/methodes_travail/offboarding.md)
 - [Commits](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/methodes_travail/commits.md)
@@ -26,7 +25,7 @@
 - [Identité visuelle](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/business/marketing/BrandBoard.pdf)
 
 
-## specs
+## Specs
 
 - [BDD](https://gitlab.com/vacuumfleet/Documentation/-/tree/main/specs/bdd)
 - [Mobile](https://gitlab.com/vacuumfleet/Documentation/-/tree/main/specs/mobile)
