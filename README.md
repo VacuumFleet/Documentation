@@ -1,32 +1,33 @@
 # Documentation
 
-## Gestion de projet
-
-- [Trello](https://trello.com/invite/b/kr8DiP7o/7337b9d600ef1e611642b49793f4702e/projet-de-fin-dann%C3%A9e-vacuumfleet)
-
 ## Méthodes de travail
+- [Assurance qualité](https://github.com/VacuumFleet/Documentation/blob/main/methodes_travail/quality_insurance.md)
+- [Méthodes de travail](https://github.com/VacuumFleet/Documentation/blob/main/methodes_travail/methodes_travail.md)
+- [Processus de départ d'un membre de l'équipe](https://github.com/VacuumFleet/Documentation/blob/main/methodes_travail/offboarding.md)
+- [Commits](https://github.com/VacuumFleet/Documentation/blob/main/methodes_travail/commits.md)
+- [QAT](https://github.com/VacuumFleet/Documentation/blob/main/methodes_travail/QAT_VacuumFleet.ods)
+- [UAT](https://github.com/VacuumFleet/Documentation/blob/main/methodes_travail/UAT_VacuumFleet.ods)
+- [Facilitate User Acceptance](https://github.com/VacuumFleet/Documentation/blob/main/methodes_travail/facilitate_user_acceptance.pdf)
+- [Definition of Done](https://github.com/VacuumFleet/Documentation/blob/main/methodes_travail/definition_of_done.md)
 
-- [Assurance qualité](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/methodes_travail/quality_insurance.md)
-- [Méthodes de travail](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/methodes_travail/methodes_travail.md)
-- [Processus de départ d'un membre de l'équipe](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/methodes_travail/offboarding.md)
-- [Commits](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/methodes_travail/commits.md)
 
 ## Legal
 
-- [Mentions légales](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legal/mentions_legales.pdf)
-- [Offre dev flutter](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legal/offre_developpeur_mobile_flutter.pdf)
-- [Offre consultant ia](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legal/offre_consultant_ia.pdf)
-- [Offre ingé IoT](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/legal/offre_ingenieur_systemes_embarques.pdf)
+- [Mentions légales](https://github.com/VacuumFleet/Documentation/blob/main/legal/mentions_legales.pdf)
+- [Offre dev flutter](https://github.com/VacuumFleet/Documentation/blob/main/legal/offre_consultant_ia.pdf)
+- [Offre consultant ia](https://github.com/VacuumFleet/Documentation/blob/main/legal/offre_developpeur_mobile_flutter.pdf)
+- [Offre ingé IoT](https://github.com/VacuumFleet/Documentation/blob/main/legal/offre_ingenieur_systeme_embarques.pdf)
 
 
 ## Business
 
-- [Business Plan](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/business/business_plan)
-- [Identité visuelle](https://gitlab.com/vacuumfleet/Documentation/-/blob/main/business/marketing/BrandBoard.pdf)
+- [Business Plan](https://github.com/VacuumFleet/Documentation/blob/main/business/business_plan.pdf)
+- [Identité visuelle](https://github.com/VacuumFleet/Documentation/blob/main/business/marketing/BrandBoard.pdf)
+- [Budget](https://github.com/VacuumFleet/Documentation/blob/main/business/Plan_financier_VacuumFleet_1an.pdf)
 
 
 ## Specs
 
-- [BDD](https://gitlab.com/vacuumfleet/Documentation/-/tree/main/specs/bdd)
-- [Mobile](https://gitlab.com/vacuumfleet/Documentation/-/tree/main/specs/mobile)
-- [Projet](https://gitlab.com/vacuumfleet/Documentation/-/tree/main/specs/projet)
+- [BDD](https://github.com/VacuumFleet/Documentation/tree/main/specs/bdd)
+- [Mobile](https://github.com/VacuumFleet/Documentation/tree/main/specs/mobile)
+- [Projet](https://github.com/VacuumFleet/Documentation/tree/main/specs/projet)
